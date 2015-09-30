@@ -1,0 +1,2 @@
+# Cwm_device_mtk6753
+CM11编译Cwm中文触摸恢复系统device
